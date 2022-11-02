@@ -1,4 +1,4 @@
-export default [
+export default const data = [
     {
         id: 1,
         title: "Life lessons with Katie Zaferes",
